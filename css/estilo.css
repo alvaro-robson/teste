@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #55809F;
+	font-family: verdana;
+}
+
+
+.container{
+	width: 20%;
+	background-color: #5A2E00;
+	margin: 10% auto;
+	padding: 10px;
+	border: solid 2px white;
+}
+h1{
+	color: white;
+	text-align: center;
+
+	font-size: 25px;
+}
+
+input{
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 10px auto;
+}
